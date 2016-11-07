@@ -1,0 +1,13 @@
+{
+    "name": "clerkio/clerk-magento",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "https://help.clerk.io/getting-started/magento",
+    "description": "SELL MORE, SAVE TIME AND GROW YOUR BUSINESS!",
+    "authors": [
+        {
+            "name": "Clerk.io",
+            "email": "support@clerk.io"
+        }
+    ]
+}

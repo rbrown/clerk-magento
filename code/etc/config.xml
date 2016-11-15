@@ -36,6 +36,7 @@
       </clerk>
     </blocks>
     <events>
+    <!--
       <catalog_product_save_commit_after>
         <observers>
           <clerk_catalog_product_save_commit_after>
@@ -54,6 +55,7 @@
           </clerk_catalog_product_delete_before>
         </observers>
       </catalog_product_delete_before>
+      -->
       <checkout_cart_add_product_complete>
         <observers>
           <clerk_checkout_cart_add_product_complete>

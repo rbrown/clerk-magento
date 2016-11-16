@@ -146,11 +146,11 @@ RESULTS
     }
 }
 
-#clerk-power-popup .products-grid .actions {
-    position: static;
-}
+/* #clerk-power-popup .products-grid .actions { */
+/*     position: static; */
+/* } */
 
-#clerk-power-popup .products-grid > li {
-    width: 30.8642%;
-    margin-right: 3.7037%;
-}
+/* #clerk-power-popup .products-grid > li { */
+/*     width: 30.8642%; */
+/*     margin-right: 3.7037%; */
+/* } */
